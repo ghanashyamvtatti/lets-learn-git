@@ -4,6 +4,7 @@ public class Code {
 	
 	public static String printRed(){
 		System.out.println("Excellsior");
+		System.out.println("Stop judging my statements");
 		return "Red";
 	}
 
