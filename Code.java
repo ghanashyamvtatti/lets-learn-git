@@ -3,7 +3,7 @@ import java.util.*;
 public class Code {
 	
 	public static String printRed(){
-		return "the path of righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men";
+		return "Red";
 	}
 
 	public static String printBlack(){
