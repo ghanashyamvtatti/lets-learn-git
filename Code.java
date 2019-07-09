@@ -35,6 +35,7 @@ public class Code {
 	}
 
 	public static void printBlue(){
+		System.out.println("Hello");
 		System.out.println("BLUE");
 	}
 }
