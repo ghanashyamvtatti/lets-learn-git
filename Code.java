@@ -35,6 +35,7 @@ public class Code {
 
 	public static void printOrange(){
 		System.out.println("Hi");
+		System.out.println("Wingardium Leviosa");
 		System.out.println("Orange");
 	}
 
