@@ -38,6 +38,7 @@ public class Code {
 
 	public static void printPurple(){
 		System.out.println("dis sum random");
+		System.out.println("hellooo");
 		System.out.println("dibs on purple hehehe");
 	}
 
