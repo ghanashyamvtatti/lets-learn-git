@@ -22,6 +22,7 @@ public class Code {
 		System.out.println("Wololo");
 	}
 	public static void printColorWhite(){
+		System.out.println("second printstmt amit");
 		System.out.println("printed by amit");
 		System.out.print("white");
 	}
