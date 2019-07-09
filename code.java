@@ -8,4 +8,8 @@ public class code {
 	public static void printYellow() {
 		System.out.println("Yellow");
 	}
+
+	public static printOrange(){
+		System.out.println("Orange");
+	}
 }
