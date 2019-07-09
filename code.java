@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class code {
+public class Code {
 	
 	public static String printRed(){
 		return "the path of righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men";
@@ -26,7 +26,7 @@ public class code {
 		System.out.println("Yellow");
 	}
 
-	public static printOrange(){
+	public static void printOrange(){
 		System.out.println("Orange");
 	}
 
