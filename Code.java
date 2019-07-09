@@ -20,6 +20,7 @@ public class Code {
 		System.out.println(printBlack());
 		printColorWhite();
 		System.out.println("Wololo");
+		System.out.println("We're now done with git!")
 	}
 	public static void printColorWhite(){
 		System.out.println("printed by amit");
@@ -27,6 +28,7 @@ public class Code {
 	}
 
 	public static void printYellow() {
+		System.out.println("Divekar");
 		System.out.println("Akash");
 		System.out.println("Yellow");
 	}
