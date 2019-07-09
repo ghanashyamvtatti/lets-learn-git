@@ -17,6 +17,7 @@ public class Code {
 		printBlue();
 		System.out.println(printBlack());
 		printColorWhite();
+		System.out.println("Wololo");
 	}
 	public static void printColorWhite(){
 		System.out.print("white");
