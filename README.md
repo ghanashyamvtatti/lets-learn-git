@@ -1,2 +1,2 @@
 # lets-learn-git
-A repo to help the freshers at my organization learn git
+A playground repo to help people learn git
