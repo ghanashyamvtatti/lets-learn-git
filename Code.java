@@ -27,6 +27,7 @@ public class Code {
 	}
 
 	public static void printOrange(){
+		System.out.println("Hi");
 		System.out.println("Orange");
 	}
 
