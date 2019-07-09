@@ -3,6 +3,7 @@ import java.util.*;
 public class Code {
 	
 	public static String printRed(){
+		System.out.println("Excellsior");
 		return "Red";
 	}
 
