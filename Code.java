@@ -7,6 +7,7 @@ public class Code {
 	}
 
 	public static String printBlack(){
+		System.out.println("method name is printBlack");
 		return "Black";
 	}
 	
