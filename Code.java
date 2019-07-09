@@ -20,6 +20,7 @@ public class Code {
 		printColorWhite();
 	}
 	public static void printColorWhite(){
+		System.out.println("printed by amit");
 		System.out.print("white");
 	}
 
