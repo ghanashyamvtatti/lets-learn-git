@@ -21,6 +21,7 @@ public class Code {
 		System.out.println(printBlack());
 		printColorWhite();
 		System.out.println("Wololo");
+		System.out.println("We're now done with git!")
 	}
 	public static void printColorWhite(){
 		System.out.println("printed by amit");
