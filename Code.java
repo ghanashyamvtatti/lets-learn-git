@@ -23,6 +23,7 @@ public class Code {
 		System.out.println("We're now done with git!")
 	}
 	public static void printColorWhite(){
+		System.out.println("second printstmt amit");
 		System.out.println("printed by amit");
 		System.out.print("white");
 	}
