@@ -1,5 +1,5 @@
-def printname(name):
-    print(name)
+def printname(name1,name2):
+    print(name1 +name2)
 printname("mithi")
 
 def PrintMyName():
@@ -8,4 +8,6 @@ def PrintMyName():
 
 def print_name():
     print("Akash")
+
+
 
