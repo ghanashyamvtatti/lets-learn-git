@@ -9,6 +9,9 @@ def PrintMyName():
 
 def print_name():
     print("Akash")
+    print("Divekar")
+
+    
 
 
 
